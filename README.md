@@ -1,2 +1,2 @@
 # dotfiles
-Customizations
+Customizations for linux stuff
